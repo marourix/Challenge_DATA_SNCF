@@ -8,8 +8,8 @@ Ce projet vise à prédire la variable continue **`p0q0`** à partir de données
 
 ## 📁 Fichiers
 
-- `x_train_final.csv` : Jeu de données contenant les variables explicatives.
-- `y_train_final_j5KGWWK.csv` : Fichier contenant la variable cible `p0q0`.
+- `x_train_final.csv` : Jeu de données contenant les variables explicatives. ( vous le trouvez dans le site " https://challengedata.ens.fr/participants/challenges/166/" )
+- `y_train_final_j5KGWWK.csv` : Fichier contenant la variable cible `p0q0`. ( vous le trouvez dans le site " https://challengedata.ens.fr/participants/challenges/166/" )
 - `x_test` 
 - `Sncf_data_code.py` : Code principal du projet.
 - `README.md` : Ce fichier.
